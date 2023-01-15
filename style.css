@@ -171,3 +171,29 @@ nav ul li:last-child a:hover{
 img{
     width: 100%;
 }
+
+/* Credit : EGATOR */
+ .tuts{
+    margin-left: 5.1%;
+    position: absolute;
+    bottom:10%;
+    padding:0.5rem 2rem ;
+    background-color: var(--color-light);
+    border-radius: 50px;
+    opacity: 0;
+    animation: animateContent 2s ease forwards;
+    font-weight: bold;
+}
+
+.git{
+    margin-left: 5.1%;
+    position: absolute;
+    bottom:10%;
+    left: 15%;
+    padding:0.5rem 2rem ;
+    background-color: var(--color-light);
+    border-radius: 50px;
+    opacity: 0;
+    animation: animateContent 2s ease forwards;
+    font-weight: bold;
+}
