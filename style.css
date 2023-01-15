@@ -197,3 +197,7 @@ img{
     animation: animateContent 2s ease forwards;
     font-weight: bold;
 }
+
+.link:hover{
+    box-shadow: var(--btn-box-shadow);
+}
